@@ -1,0 +1,41 @@
+{
+  "name": "Furao_Sable",
+  "fbx_reimport": "passed",
+  "meshes": 2,
+  "triangles": 518596,
+  "finite_geometry": true,
+  "uv_coordinates_valid": true,
+  "images_loaded": [
+    {
+      "image": "Furao_Sable_BaseColor",
+      "resolution": [
+        4096,
+        4096
+      ]
+    },
+    {
+      "image": "Furao_Sable_Normal",
+      "resolution": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "image": "Furao_Sable_Roughness",
+      "resolution": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "image": "Furao_Sable_FurColor",
+      "resolution": [
+        512,
+        512
+      ]
+    }
+  ],
+  "rigged": false,
+  "animated": false,
+  "roblox_studio_tested": false
+}

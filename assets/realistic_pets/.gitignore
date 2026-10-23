@@ -1,0 +1,4 @@
+# Editable Blender sources are distributed inside each animal's ZIP.
+*/*.blend
+*/*.blend1
+*/*.fbm/

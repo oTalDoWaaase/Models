@@ -1,0 +1,41 @@
+{
+  "name": "Gato_Tigrado",
+  "fbx_reimport": "passed",
+  "meshes": 2,
+  "triangles": 637928,
+  "finite_geometry": true,
+  "uv_coordinates_valid": true,
+  "images_loaded": [
+    {
+      "image": "Gato_Tigrado_BaseColor",
+      "resolution": [
+        4096,
+        4096
+      ]
+    },
+    {
+      "image": "Gato_Tigrado_Normal",
+      "resolution": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "image": "Gato_Tigrado_Roughness",
+      "resolution": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "image": "Gato_Tigrado_FurColor",
+      "resolution": [
+        512,
+        512
+      ]
+    }
+  ],
+  "rigged": false,
+  "animated": false,
+  "roblox_studio_tested": false
+}

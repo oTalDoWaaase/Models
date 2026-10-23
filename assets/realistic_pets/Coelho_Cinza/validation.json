@@ -1,0 +1,41 @@
+{
+  "name": "Coelho_Cinza",
+  "fbx_reimport": "passed",
+  "meshes": 2,
+  "triangles": 637756,
+  "finite_geometry": true,
+  "uv_coordinates_valid": true,
+  "images_loaded": [
+    {
+      "image": "Coelho_Cinza_BaseColor",
+      "resolution": [
+        4096,
+        4096
+      ]
+    },
+    {
+      "image": "Coelho_Cinza_Normal",
+      "resolution": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "image": "Coelho_Cinza_Roughness",
+      "resolution": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "image": "Coelho_Cinza_FurColor",
+      "resolution": [
+        512,
+        512
+      ]
+    }
+  ],
+  "rigged": false,
+  "animated": false,
+  "roblox_studio_tested": false
+}

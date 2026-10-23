@@ -1,0 +1,21 @@
+{
+  "name": "Gato_Tigrado",
+  "species": "cat",
+  "triangles": 637928,
+  "vertices": 469080,
+  "dimensions": [
+    0.7147944569587708,
+    2.117978096008301,
+    1.8787164688110352
+  ],
+  "mesh_count": 2,
+  "texture_resolution": 4096,
+  "rigged": false,
+  "animated": false,
+  "maps": [
+    "BaseColor",
+    "Normal",
+    "Roughness"
+  ],
+  "roblox_studio_tested": false
+}

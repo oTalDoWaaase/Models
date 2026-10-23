@@ -1,0 +1,41 @@
+{
+  "name": "Cachorro_Beagle",
+  "fbx_reimport": "passed",
+  "meshes": 2,
+  "triangles": 460408,
+  "finite_geometry": true,
+  "uv_coordinates_valid": true,
+  "images_loaded": [
+    {
+      "image": "Cachorro_Beagle_BaseColor",
+      "resolution": [
+        4096,
+        4096
+      ]
+    },
+    {
+      "image": "Cachorro_Beagle_Normal",
+      "resolution": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "image": "Cachorro_Beagle_Roughness",
+      "resolution": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "image": "Cachorro_Beagle_FurColor",
+      "resolution": [
+        512,
+        512
+      ]
+    }
+  ],
+  "rigged": false,
+  "animated": false,
+  "roblox_studio_tested": false
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Cachorro_Beagle",
+  "species": "dog",
+  "triangles": 460408,
+  "vertices": 335278,
+  "dimensions": [
+    0.7085429430007935,
+    2.4125304222106934,
+    1.6984690427780151
+  ],
+  "mesh_count": 2,
+  "texture_resolution": 4096,
+  "rigged": false,
+  "animated": false,
+  "maps": [
+    "BaseColor",
+    "Normal",
+    "Roughness"
+  ],
+  "roblox_studio_tested": false
+}

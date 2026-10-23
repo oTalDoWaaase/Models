@@ -1,0 +1,21 @@
+{
+  "name": "Coelho_Cinza",
+  "species": "rabbit",
+  "triangles": 637756,
+  "vertices": 468994,
+  "dimensions": [
+    0.885317325592041,
+    1.7279998064041138,
+    1.9293057918548584
+  ],
+  "mesh_count": 2,
+  "texture_resolution": 4096,
+  "rigged": false,
+  "animated": false,
+  "maps": [
+    "BaseColor",
+    "Normal",
+    "Roughness"
+  ],
+  "roblox_studio_tested": false
+}

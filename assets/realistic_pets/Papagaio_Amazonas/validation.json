@@ -1,0 +1,34 @@
+{
+  "name": "Papagaio_Amazonas",
+  "fbx_reimport": "passed",
+  "meshes": 1,
+  "triangles": 120092,
+  "finite_geometry": true,
+  "uv_coordinates_valid": true,
+  "images_loaded": [
+    {
+      "image": "Papagaio_Amazonas_BaseColor",
+      "resolution": [
+        4096,
+        4096
+      ]
+    },
+    {
+      "image": "Papagaio_Amazonas_Normal",
+      "resolution": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "image": "Papagaio_Amazonas_Roughness",
+      "resolution": [
+        1024,
+        1024
+      ]
+    }
+  ],
+  "rigged": false,
+  "animated": false,
+  "roblox_studio_tested": false
+}

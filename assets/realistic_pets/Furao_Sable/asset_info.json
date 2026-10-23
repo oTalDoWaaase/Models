@@ -1,0 +1,21 @@
+{
+  "name": "Furao_Sable",
+  "species": "ferret",
+  "triangles": 518596,
+  "vertices": 379432,
+  "dimensions": [
+    0.7737195491790771,
+    2.483858108520508,
+    0.797034740447998
+  ],
+  "mesh_count": 2,
+  "texture_resolution": 4096,
+  "rigged": false,
+  "animated": false,
+  "maps": [
+    "BaseColor",
+    "Normal",
+    "Roughness"
+  ],
+  "roblox_studio_tested": false
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Papagaio_Amazonas",
+  "species": "parrot",
+  "triangles": 120092,
+  "vertices": 61148,
+  "dimensions": [
+    0.6382119655609131,
+    1.2997339963912964,
+    1.5016958713531494
+  ],
+  "mesh_count": 1,
+  "texture_resolution": 4096,
+  "rigged": false,
+  "animated": false,
+  "maps": [
+    "BaseColor",
+    "Normal",
+    "Roughness"
+  ],
+  "roblox_studio_tested": false
+}
