@@ -1,0 +1,10 @@
+{
+  "fbx_reimport": "passed",
+  "mesh_count": 1,
+  "triangles": 9399,
+  "uv_in_range": true,
+  "texture_loaded": true,
+  "finite_geometry": true,
+  "nonzero_face_area": true,
+  "roblox_studio_tested": false
+}
